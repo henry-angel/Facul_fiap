@@ -1,0 +1,42 @@
+body {
+    background-color: #f3f4f6;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #4b0082; /* Indigo */
+    margin-top: 20px;
+  }
+  
+  form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  form span {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #4b0082; /* Indigo */
+  }
+  
+  form .form-control {
+    margin-bottom: 20px;
+    border: 1px solid #4b0082; /* Indigo */
+  }
+  
+  form .btn {
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #4b0082; /* Indigo */
+    border-color: #4b0082; /* Indigo */
+  }
+  
+  form .btn:hover {
+    background-color: #3a006b; /* Darker Indigo */
+    border-color: #3a006b; /* Darker Indigo */
+  }
+  
